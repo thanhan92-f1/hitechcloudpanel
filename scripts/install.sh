@@ -102,7 +102,7 @@ php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
 # setup website
 export COMPOSER_ALLOW_SUPERUSER=1
-export V_REPO="https://github.com/vitodeploy/vito.git"
+export V_REPO="https://github.com/thanhan92-f1/hitechcloudpanel.git"
 export V_VHOST_CONFIG="
 server {
     listen 80;
